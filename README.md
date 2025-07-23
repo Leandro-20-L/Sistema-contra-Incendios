@@ -1,4 +1,4 @@
-# ALUMNO
+# AUTOR
 Leandro Escobar 1J
 
 # PARCIAL2-SPD
